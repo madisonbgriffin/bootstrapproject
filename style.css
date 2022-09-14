@@ -1,13 +1,17 @@
 .jumbotron {
-    background-image: url("bootstrappicture.jpg");
-    height: 300px;
-    background-size: auto 150%;
+    background-image: url("soccer2.jpg");
+    height: 350px;
+    background-size: auto 110%;
     background-repeat: no-repeat;
 }
 .jumbotron h1 {
     text-align: center;
-    color: rgb(70, 97, 74)
+    color: rgb(13, 34, 37);
+    background-color:rgba(179, 118, 155, 0.553);
+    margin-left: 200px;
+    margin-right: 200px;
+
 }
 body {
-    background-color: rgb(219, 160, 173);
+    background-color: rgb(196, 121, 150);
 }
