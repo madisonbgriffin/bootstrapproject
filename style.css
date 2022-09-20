@@ -1,17 +1,28 @@
 .jumbotron {
-    background-image: url("soccer2.jpg");
+    background-image: url("strangerthingspic.JPG");
     height: 350px;
-    background-size: auto 110%;
+    background-size: auto 150%;
     background-repeat: no-repeat;
 }
 .jumbotron h1 {
     text-align: center;
-    color: rgb(13, 34, 37);
-    background-color:rgba(179, 118, 155, 0.553);
+    color: rgb(255, 255, 255);
+    background-color:rgba(179, 118, 155, 0.457);
+    margin-top: 100px;
     margin-left: 200px;
     margin-right: 200px;
 
 }
 body {
     background-color: rgb(196, 121, 150);
+}
+.revisions {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.revision-pics {
+    text-align: center;
+    height: 300px;
+    width: 300px;
 }
