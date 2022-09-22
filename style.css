@@ -11,10 +11,12 @@
     margin-top: 100px;
     margin-left: 200px;
     margin-right: 200px;
-
+    margin-bottom: 100px;
 }
 body {
     background-color: rgb(196, 121, 150);
+    padding-top: 70px;
+    padding-bottom: 30px;
 }
 .revisions {
     color: black;
@@ -26,3 +28,4 @@ body {
     height: 300px;
     width: 300px;
 }
+
