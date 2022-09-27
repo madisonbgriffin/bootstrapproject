@@ -28,4 +28,12 @@ body {
     height: 300px;
     width: 300px;
 }
+.carousel-inner{
+    height: 300px;
+}
+
+.item, img{
+    height: 100% !important;
+    width:  100% !important;
+}
 
